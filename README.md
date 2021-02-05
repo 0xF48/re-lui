@@ -1,3 +1,3 @@
 ## re-lui
 basic react web ui components
-[view all the components](http://x00F.github.io/re-lui)
+[view all the components](https://0xf48.github.io/re-lui/)
